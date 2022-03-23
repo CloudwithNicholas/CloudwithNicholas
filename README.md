@@ -3,7 +3,7 @@ I'm Nicholas Chang, I'm a Platform Engineer 👨‍💻 who is passionate about 
 
 
 - 🔭 I’m currently working on Azure 
-- 🌱 I’m currently learning Azure Devops, Azure and Terraform 
+- 📚 I’m currently learning Azure Devops, Azure and Terraform  😅
 - 💬 Ask me about: tech
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Azure, Azure Devops, Terraform, 
