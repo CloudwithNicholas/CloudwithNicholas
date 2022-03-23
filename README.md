@@ -1,4 +1,3 @@
-### Hi there I am Nicholas Chang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
 ## Hi 👋, 
