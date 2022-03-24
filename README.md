@@ -1,5 +1,5 @@
 <br/> ## Hi 👋, 
-I'm Nicholas, I'm a Platform Engineer 👨‍💻 who is passionate about Azure, Devops, Azure Devops and all things infrastructure as code. 
+I'm Nicholas, I'm a Platform Engineer 👨‍💻 who is passionate about Azure, Azure Devops, Devops and all things Infrastructure as code and security. 
 
 
 - 🔭 I’m currently working on Azure 
