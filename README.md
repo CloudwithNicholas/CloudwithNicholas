@@ -10,9 +10,11 @@ I'm Nicholas, I'm a Platform Engineer 👨‍💻 who is passionate about Azure,
 
 <p>
 
- 
- <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/>
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/>
 
  ## Github Stats
 
