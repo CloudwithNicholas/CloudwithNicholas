@@ -1,5 +1,5 @@
 <br/>  Hi 👋, 
-I'm Nicholas, I'm a Platform Engineer 👨‍💻. I have an interest in Azure, Azure Devops, Devops and all things Infrastructure as code and security.  Feel free to follow me on social media or on my personal Github Account nicholaschangIT
+I'm Nicholas, I'm a Platform Engineer 👨‍💻. I have an interest in Azure, Azure Devops, Devops and all things Infrastructure as code and security.  Feel free to follow me on social media. :)
 
 - 🔭 I’m currently working on Azure 
 - 📚 I’m currently learning Azure Devops, Azure and Terraform  😅
