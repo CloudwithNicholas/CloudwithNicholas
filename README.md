@@ -6,7 +6,8 @@ I'm Nicholas, I'm a Platform Engineer 👨‍💻. I have an interest in Azure, 
 - 📚 I’m currently learning Azure Devops, Azure and Terraform  😅
 - 💬 Ask me about: tech
 - 😄 Pronouns: he/him
--  ⚡ Languages: Azure, Azure Devops, Terraform, Jenkins, Github/ CICD
+-  ⚡ Languages: Azure, Azure Devops, Terraform, Github/ CICD, Git
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <p>
 
