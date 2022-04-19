@@ -2,8 +2,6 @@
 
 Feel free to follow me on social media. :)
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
 
 - 🔭 I’m currently working on Azure 
 - 📚 I’m currently learning Azure Devops, Azure and Terraform  😅
@@ -11,6 +9,9 @@ Feel free to follow me on social media. :)
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Azure, Azure Devops, Terraform, Github/ CICD, Git
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 <p>
 
